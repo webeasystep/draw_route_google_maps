@@ -21,9 +21,9 @@
 
 
 # Services used 
-GOOGLE MAPS javascript API
-Geocoder API
-DistanceMatrixService API
-Places Autocomplete API
-DirectionsService API
-DirectionsRenderer API
+-GOOGLE MAPS javascript API
+-Geocoder API
+-DistanceMatrixService API
+-Places Autocomplete API
+-DirectionsService API
+-DirectionsRenderer API
