@@ -3,15 +3,15 @@
 
 # Features
 
--set your current location using using google maps autocomplete or using geolocation api
--set your Destination
--set the transportation method (driving,WALKING,BICYCLING)
+* set your current location using using google maps autocomplete or using geolocation api
+- set your Destination
+- set the transportation method (driving,WALKING,BICYCLING)
 
--draw route google maps
--get distance in miles or kilometers
--get duration time between two places
--save results in mysql database
--also script supporting multi languages
+- draw route google maps
+- get distance in miles or kilometers
+- get duration time between two places
+- save results in mysql database
+- also script supporting multi languages
 
 
 #REQUIRED STEPS
@@ -21,9 +21,9 @@
 
 
 # Services used 
--GOOGLE MAPS javascript API
--Geocoder API
--DistanceMatrixService API
--Places Autocomplete API
--DirectionsService API
--DirectionsRenderer API
+- GOOGLE MAPS javascript API
+- Geocoder API
+- DistanceMatrixService API
+- Places Autocomplete API
+- DirectionsService API
+- DirectionsRenderer API
